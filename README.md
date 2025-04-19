@@ -1,3 +1,6 @@
+> [!Note]
+> This repository is only for fixing my personal installation errors.
+
 # Termux_XFCE
 
 https://github.com/phoenixbyrd/Termux_XFCE/tree/main의 debian proot에서 ubuntu proot로 변경하였습니다.
